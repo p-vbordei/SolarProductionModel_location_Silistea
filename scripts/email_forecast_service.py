@@ -433,7 +433,7 @@ def main():
     # Custom send with all options
     # success = service.send_forecast_email(
     #     recipient_emails=recipients,
-    #     subject="Solar Forecast - CEF Chisineu Criș",
+    #     subject="Solar Forecast - Envolteco Silistea",
     #     body=None,  # Use auto-generated body
     #     attach_csv=True  # Also attach original CSV files
     # )

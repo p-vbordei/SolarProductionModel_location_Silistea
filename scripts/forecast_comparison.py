@@ -463,7 +463,7 @@ if __name__ == "__main__":
     )
     
     # Test location
-    location_key = sys.argv[1] if len(sys.argv) > 1 else 'chisineu_cris'
+    location_key = sys.argv[1] if len(sys.argv) > 1 else 'cm_forecast'
     
     # Run comparison
     print(f"\nRunning forecast comparison for {LOCATIONS[location_key]['name']}...")

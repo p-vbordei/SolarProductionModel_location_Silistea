@@ -459,7 +459,7 @@ if __name__ == "__main__":
     import pytz
     
     # Test location
-    location_key = 'chisineu_cris'
+    location_key = 'cm_forecast'
     
     # Current conditions
     current_time = datetime.now(pytz.timezone('Europe/Berlin'))
